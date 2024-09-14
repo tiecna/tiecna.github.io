@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiecna.github.io/SbR/sitemap.SbR.gz
